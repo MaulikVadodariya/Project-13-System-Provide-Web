@@ -10,8 +10,8 @@ By Maulik Vadodariya
 
 ## What I learned from this Project?
 
-- I have done this project using `HTML` ,  `CSS` and `Bootstrap`.
-- `Bootstrap` responsive design and full end to end project.
+- I have done this project using `HTML` and `CSS` only.
+- Responsive design.
 
 ## I spent 7 to 8 hours in making this project
 
