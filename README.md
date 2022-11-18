@@ -11,7 +11,7 @@ By Maulik Vadodariya
 ## What I learned from this Project?
 
 - I have done this project using `HTML` and `CSS` only.
-- Responsive design.
+- Responsive Design.
 
 ## I spent 7 to 8 hours in making this project
 
