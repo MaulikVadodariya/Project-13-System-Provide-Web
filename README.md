@@ -1,4 +1,4 @@
-# HTML ![](./readme-images/html-5-img.png) , CSS ![](./readme-images/css-3-img.png) and Bootstrap ![](./readme-images/bootstrap-img.png)
+# HTML ![](./readme-images/html-5-img.png) and CSS ![](./readme-images/css-3-img.png)
 
 # Project 13 - System Provide Web ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
